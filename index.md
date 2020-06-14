@@ -1,7 +1,9 @@
 <div class="header">
   <h2>Sonic Fan Blog</h2>
 </div>
-
+<head>
+  <script data-ad-client="ca-pub-6847215205850412" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+</head>
 <div class="row">
   <div class="leftcolumn">
     <div class="card">
